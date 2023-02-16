@@ -1,0 +1,9 @@
+torch
+torchaudio
+torchvision
+pytorch_lightning
+librosa
+fire
+easydict
+pandas
+tqdm
